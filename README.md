@@ -34,4 +34,4 @@
 - API 金鑰已設定在 .gitignore 中
 - 模型檔案不納入版本控制
 - 檢查 .env 檔案是否正確設定
-- Gemini API 使用 Google Cloud Platform (GCP) 服務，因此建議先確認 GCP 的收費標準與額度限制
+- Gemini API 使用 Google Cloud Platform (GCP) 服務，建議先確認 GCP 的收費標準與額度限制

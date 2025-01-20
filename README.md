@@ -24,7 +24,7 @@
 放置於專案根目錄
 
 3.設定環境變數
-複製 .env.example 為 .env
+建置.env檔
 設定 Gemini API 金鑰
 
 

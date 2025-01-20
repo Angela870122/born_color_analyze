@@ -8,10 +8,10 @@
 - Gemini API 金鑰
 
 ## 主要功能
+- **主程式**：app.py 負責網頁介面與個人色彩分析主要邏輯
 - **圖片分析**：使用 analyzer.py 進行圖片處理與分析
 - **人臉檢測**：透過 face_detection.py 實現人臉辨識
 - **特徵提取**：face_extraction.py 負責提取人臉特徵
-- **季節判定**：season_type.py 進行個人色彩季節判定
 
 
 ## 安裝步驟

@@ -19,14 +19,9 @@
    ```bash
    pip install -r requirements.txt
 
-2.準備必要檔案
-下載 shape_predictor_68_face_landmarks.dat
-放置於專案根目錄
+2.準備必要檔案:下載 shape_predictor_68_face_landmarks.dat放置於專案根目錄
 
-3.設定環境變數
-建置.env檔
-設定 Gemini API 金鑰
-
+3.設定環境變數:建置.env並設定 Gemini API 金鑰
 
 
 ## 功能說明
@@ -39,3 +34,4 @@
 - API 金鑰已設定在 .gitignore 中
 - 模型檔案不納入版本控制
 - 檢查 .env 檔案是否正確設定
+- Gemini API 使用 Google Cloud Platform (GCP) 服務，因此建議先確認 GCP 的收費標準與額度限制
